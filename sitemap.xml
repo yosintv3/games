@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <!-- Homepage -->
   <url>
-    <loc>https://www.sandipsitaula2023.com.np/</loc>
+    <loc>/</loc>
     <lastmod>2024-03-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -10,14 +10,14 @@
 
   <!-- Main Pages -->
   <url>
-    <loc>https://www.sandipsitaula2023.com.np/games.html</loc>
+    <loc>/games.html</loc>
     <lastmod>2024-03-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
 
   <url>
-    <loc>https://www.sandipsitaula2023.com.np/faq.html</loc>
+    <loc>/faq.html</loc>
     <lastmod>2024-03-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -25,112 +25,112 @@
 
   <!-- Game Pages -->
   <url>
-    <loc>https://www.sandipsitaula2023.com.np/games/memory-match.html</loc>
+    <loc>/games/memory-match.html</loc>
     <lastmod>2024-03-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://www.sandipsitaula2023.com.np/games/snake-game.html</loc>
+    <loc>/games/snake-game.html</loc>
     <lastmod>2024-03-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://www.sandipsitaula2023.com.np/games/tetris.html</loc>
+    <loc>/games/tetris.html</loc>
     <lastmod>2024-03-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://www.sandipsitaula2023.com.np/games/sliding-puzzle.html</loc>
+    <loc>/games/sliding-puzzle.html</loc>
     <lastmod>2024-03-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://www.sandipsitaula2023.com.np/games/whack-a-mole.html</loc>
+    <loc>/games/whack-a-mole.html</loc>
     <lastmod>2024-03-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://www.sandipsitaula2023.com.np/games/tic-tac-toe.html</loc>
+    <loc>/games/tic-tac-toe.html</loc>
     <lastmod>2024-03-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://www.sandipsitaula2023.com.np/games/rock-paper-scissors.html</loc>
+    <loc>/games/rock-paper-scissors.html</loc>
     <lastmod>2024-03-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://www.sandipsitaula2023.com.np/games/simon-says.html</loc>
+    <loc>/games/simon-says.html</loc>
     <lastmod>2024-03-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://www.sandipsitaula2023.com.np/games/hangman.html</loc>
+    <loc>/games/hangman.html</loc>
     <lastmod>2024-03-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://www.sandipsitaula2023.com.np/games/minesweeper.html</loc>
+    <loc>/games/minesweeper.html</loc>
     <lastmod>2024-03-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://www.sandipsitaula2023.com.np/games/math-quiz.html</loc>
+    <loc>/games/math-quiz.html</loc>
     <lastmod>2024-03-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://www.sandipsitaula2023.com.np/games/word-scramble.html</loc>
+    <loc>/games/word-scramble.html</loc>
     <lastmod>2024-03-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://www.sandipsitaula2023.com.np/games/pattern-recognition.html</loc>
+    <loc>/games/pattern-recognition.html</loc>
     <lastmod>2024-03-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://www.sandipsitaula2023.com.np/games/space-shooter.html</loc>
+    <loc>/games/space-shooter.html</loc>
     <lastmod>2024-03-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://www.sandipsitaula2023.com.np/games/geography-quiz.html</loc>
+    <loc>/games/geography-quiz.html</loc>
     <lastmod>2024-03-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://www.sandipsitaula2023.com.np/games/color-match.html</loc>
+    <loc>/games/color-match.html</loc>
     <lastmod>2024-03-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -138,28 +138,28 @@
 
   <!-- Legal Pages -->
   <url>
-    <loc>https://www.sandipsitaula2023.com.np/privacy-policy.html</loc>
+    <loc>/privacy-policy.html</loc>
     <lastmod>2024-03-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
 
   <url>
-    <loc>https://www.sandipsitaula2023.com.np/terms-of-service.html</loc>
+    <loc>/terms-of-service.html</loc>
     <lastmod>2024-03-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
 
   <url>
-    <loc>https://www.sandipsitaula2023.com.np/cookie-policy.html</loc>
+    <loc>/cookie-policy.html</loc>
     <lastmod>2024-03-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
 
   <url>
-    <loc>https://www.sandipsitaula2023.com.np/disclaimer.html</loc>
+    <loc>/disclaimer.html</loc>
     <lastmod>2024-03-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -167,14 +167,14 @@
 
   <!-- Information Pages -->
   <url>
-    <loc>https://www.sandipsitaula2023.com.np/about-us.html</loc>
+    <loc>/about-us.html</loc>
     <lastmod>2024-03-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
 
   <url>
-    <loc>https://www.sandipsitaula2023.com.np/contact.html</loc>
+    <loc>/contact.html</loc>
     <lastmod>2024-03-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
